@@ -22,7 +22,7 @@ export default function Home({ allPostsData  }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Итак, расскажу немного о себе! Я Frontend разработчик, специализируюсь в разработке на React, Next.js. </p>
+        <p>Я Frontend разработчик, специализируюсь в разработке на React, Next.js. </p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
